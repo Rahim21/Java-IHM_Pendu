@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Projet_Driouche:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="Projet_Driouche.jar">
+      <element id="module-output" name="ProjetPendu" />
+    </root>
+  </artifact>
+</component>
